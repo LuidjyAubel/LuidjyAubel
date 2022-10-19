@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LuidjyAubel
-- 👀 I’m interested by the Hardware and Java 
-- 🌱 I’m currently learning Jquery, Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested by the Hardware and Programming
 - 📫 You can send me an email at luidjy.aubel@gmail.com
 
 <!---
