@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @LuidjyAubel
-- 👀 I’m interested by the Hardware and Programming
-- 📫 You can send me an email at luidjy.aubel@gmail.com
-
-
 [![LuidjyAubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuidjyAubel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidjyAubel&hide=html&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
